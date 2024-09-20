@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9024RRcp)
+# Hej, vi är *Team Styling, init!*
+
+> ## Våra teammedlemmar är;
+> Berke Can *(BC)*
+> David Dyberg *(DD)*
+> Susanna Holding *(SueH)*
+> Svea Holm *(SveaH)*
+> Allen Karromi *(AK)*
+
+Detta är vår första teamprojekt.
+Link till uppgiften finns här - (https://chasacademy.instructure.com/courses/441/assignments/2378?module_item_id=12063)
+
+
