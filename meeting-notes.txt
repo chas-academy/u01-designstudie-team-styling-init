@@ -1,1 +1,19 @@
-notes
+Team Styling Init
+
+18 Sept 2024
+Allen, Svea, David, Sue, Berke
+First meeting
+Agreed upon Kanban Agile method
+Agreed upon Team name and company idea
+Created GitHub team project - DD
+
+19 Sept 2024
+Allen, Svea, David, Sue
+Second meeting
+Agreed starting point of start issues and created these to Github project as drafts
+Agreed upon a draft sketch design of website structure
+Agreed upon deadline - 31 October 2024
+ReadMe file - SueH
+Meeting notes - SueH
+Blank template Persona Figma - AC
+
