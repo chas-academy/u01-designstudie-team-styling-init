@@ -25,3 +25,13 @@ För tillfället så kom vi överens om följande sidor:
 home, login, products, rea, about us och sedan ska vi diskutera över en sjätte sida för att komplettera projektet. 
 Planeringen inför intervjun tänkte vi ta efter föreläsningen på tisdag/onsdag så vi har det klart inför fysiska mötet på torsdag. 
 Dem designs vi ska jobba på idag är enbart första utkastet av vår low fidelity upplägg, som sedan ska organiseras och förbättras med hjälp av alla i gruppen.
+
+24 Sept 2024
+Allen, Svea, David, Sue, Berke
+4th meeting
+Discussed questions for interviews, agreed to come up with 5-10 each for tomorrow and as a team we will compile a final file list of questions. (25/09)
+Agreed upon 'Depth Interview' method with a note taker and to record the interviews for later reference when creating Personas and User Stories.
+Agreed to conducts interviews this Thursday (27/09)
+Agreed to have completed Personals card x 2 and User Storied md file by next Thursday (3/10)
+Agreed to have completed each phone and desktop version in low fidelity by next Thursday (3/10)
+Next meeting tomorrow (25/09) at 14:00 to finalise interview questions.
