@@ -1,1 +1,14 @@
 interview questions
+Q, how often do you upgrade your phone? 
+Q, how old are you? 
+Q, do you like apple or android? 
+Q, do you have any phone extras, ear buds, cover, wallet case, charger, general questions..
+Q, Finns det något du brukar störa dig på generelt när du är inne på en webbshop?
+Q, Skulle du rekommendera denna sida till andra personer?
+Q, Vilken känsla framkallar den minimalistiska stilen?. (frågan kan ge förståelse för kundupplevelse beroende på kön och ålder)
+as a website user, do you use your phone, a tablet or latpop mostly?
+Q, Har du några funderingar över hur webbsidan ser ut eller är det något du vill påpeka? (Vilket svar man än får påpeka att webbsidan är blandad med svenska och engelska och frågar om det framkallar något negativ känsla mot webbsidan)
+Q, Vad anser du vara din budget när det kommer till mobiltillbehör?
+Q, Vad är något som sidor som denna du anser måste ha för att du ska ha en bra kund upplevelse.
+
+
