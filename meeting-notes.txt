@@ -17,8 +17,11 @@ ReadMe file - SueH
 Meeting notes - SueH
 Blank template Persona Figma - AC
 
-22 Sept 2024
+23 Sept 2024
 Allen, Svea, David, Sue, Berke
 Third meeting
-I dagens möte gick vi igenom vilka olika sidor vi ska jobba med, samt vilka som ska jobba på respektive sida. För tillfället så kom vi överens om följande sidor:
-home, login, products, rea, about us och sedan ska vi diskutera över en sjätte sida för att komplettera projektet. Planeringen inför intervjun tänkte vi ta efter föreläsningen på tisdag/onsdag så vi har det klart inför fysiska mötet på torsdag. Dem designs vi ska jobba på idag är enbart första utkastet av vår low fidelity upplägg som sedan ska organiseras och förbättras med hjälp av alla i gruppen.
+I dagens möte gick vi igenom vilka olika sidor vi ska jobba med, samt vilka som ska jobba på respektive sida. 
+För tillfället så kom vi överens om följande sidor:
+home, login, products, rea, about us och sedan ska vi diskutera över en sjätte sida för att komplettera projektet. 
+Planeringen inför intervjun tänkte vi ta efter föreläsningen på tisdag/onsdag så vi har det klart inför fysiska mötet på torsdag. 
+Dem designs vi ska jobba på idag är enbart första utkastet av vår low fidelity upplägg, som sedan ska organiseras och förbättras med hjälp av alla i gruppen.
