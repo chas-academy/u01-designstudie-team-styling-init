@@ -63,3 +63,7 @@ Pratade och jobbade på user stories
 Skapade nya issues på kanban inför high fidelity design & små detaljer (färger, fonter & upplägg)
 Födelade arbetet mellan gruppen och satte deadline för blivande uppgifter
 
+8 Oct 2024
+Allen, Svea, David, Sue, Berke
+Skapade issues för high fidelity design i backlog
+Kom överens om färgtema, fonter och upplägg för hemsidan
