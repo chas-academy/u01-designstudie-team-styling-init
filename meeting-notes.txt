@@ -93,3 +93,15 @@ Sue to look into points for Design rapport and to find best way to create presen
 Allen, Svea, David, Sue, Berke
 Pratade struktur om figma på dem olika iterationer
 gick igenom design, inehåll och upplägg för projektet
+
+28 Oct 2024
+David, Sue, Berke
+One issue left to implement to Figma - search function - Berke
+Figma - work in progress to display a clean structure
+Report - almost done
+Presentation - split into 5 parts; What we did - Agile Method, Research
+                                    What we did - Figma Design
+                                    How the project went
+                                    Learnings - what went well / not so well
+                                    Learnings - what would we do differntly next time
+meeting tomorrow to discuss presentation
